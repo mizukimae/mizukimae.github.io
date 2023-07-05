@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nefthaly Mae</title>
+    <link>https://maemizuki.github.io/</link>
+    <description>Recent content on Nefthaly Mae</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 13 Jun 2023 20:55:37 +0100</lastBuildDate><atom:link href="https://maemizuki.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Anime &amp; Manga</title>
+      <link>https://maemizuki.github.io/post/post-2/</link>
+      <pubDate>Tue, 13 Jun 2023 20:55:37 +0100</pubDate>
+      
+      <guid>https://maemizuki.github.io/post/post-2/</guid>
+      <description>𝖠𝗇𝗂𝗆𝖾 𝖺𝗇𝖽 𝖬𝖺𝗇𝗀𝖺 𝗋𝖾𝖼𝗈𝗆𝗆𝖾𝗇𝖽𝖺𝗍𝗂𝗈𝗇𝗌</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://maemizuki.github.io/post/post-2/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>𝖬𝗎𝗌𝗂𝖼</title>
+      <link>https://maemizuki.github.io/post/post-1/</link>
+      <pubDate>Tue, 13 Jun 2023 20:55:37 +0100</pubDate>
+      
+      <guid>https://maemizuki.github.io/post/post-1/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://maemizuki.github.io/post/post-1/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>

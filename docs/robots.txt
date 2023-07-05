@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://maemizuki.github.io/sitemap.xml
